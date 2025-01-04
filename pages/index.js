@@ -26,7 +26,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hi! I'm Josh. You can find me on <a href="https://www.twitter.com/oynickj">X</a> and <a href="https://www.instagram.com/oynickj">Instagram</a>.
         </p>
-        <p>I built this site using <a href="https://nextjs.org/learn/basics/create-nextjs-app">Next.js</a> and <a href="https://vercel.com/">Vercel</a>.</p>
+        <p>Built using <a href="https://nextjs.org/learn/basics/create-nextjs-app">Next.js</a> and <a href="https://vercel.com/">Vercel</a>.</p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

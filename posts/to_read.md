@@ -1,5 +1,5 @@
 ---
-title: 'Bookmarks - things I'm reading / want to read'
+title: 'Bookmarks'
 date: '2025-01-03'
 ---
 
